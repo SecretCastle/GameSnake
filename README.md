@@ -12,3 +12,4 @@
     In this version , our little snake do not change a lot, only fix some running bugs in the canvas table.
     Example :
       1. now when we crash the wall , tips will show you score , and click ok ,this game will restart.
+
